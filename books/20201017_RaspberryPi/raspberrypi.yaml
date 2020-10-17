@@ -4,6 +4,6 @@ topics: ["Raspberry pi", "Raspberry pi3", "初心者"] # トピック（5つま�
 published: false # (true: 公開 / false: 下書き)
 price: 0
 chapters:
-  - raspberrypi-1
+  - First
   # - raspberrypi-2
   # - raspberrypi-3
