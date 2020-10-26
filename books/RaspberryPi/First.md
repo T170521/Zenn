@@ -1,7 +1,7 @@
 ---
 
 title: "まえがき"
-# free: true
+free: true
 
 ---
 
